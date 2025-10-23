@@ -2,6 +2,9 @@ import React from "react";
 import Card from "./components/Card";
 
 const App = () => {
+
+
+  
   return (
     <>
     <div className="container">
@@ -21,7 +24,7 @@ const App = () => {
         user="Nikhil"
         age={26}
         img="https://plus.unsplash.com/premium_photo-1689568126014-06fea9d5d341?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870"
-        p="I am a cloud Enginner in Koch Enterprised and I am a medium fast bowler as well."
+        p="I am a cloud Enginner in Koch Enterprises and I am a medium fast bowler as well."
       />
       
       </div>
